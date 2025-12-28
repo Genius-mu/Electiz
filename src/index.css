@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sec1 {
+  background-image: url(/public/images/img3.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
