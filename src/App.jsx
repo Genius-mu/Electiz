@@ -4,6 +4,8 @@ import Home from "./page/Home";
 import About from "./page/About";
 import Service from "./page/Service";
 import Project from "./page/Project";
+import Pricing from "./page/Pricing";
+import Contact from "./page/Contact";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/service" element={<Service />} />
         <Route path="/project" element={<Project />} />
+        <Route path="/pricing" element={<Pricing />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </>
   );
