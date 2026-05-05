@@ -287,7 +287,7 @@ const Footer = () => {
                     Email
                   </span>
                   <a
-                    href="mailto:mustapha@gmail.com"
+                    href="mailto:adegbitemustapha73@gmail.com"
                     className="text-white/80 hover:text-yellow-300 transition duration-200 text-[13px] break-all"
                   >
                     mustapha@gmail.com
